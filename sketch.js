@@ -10,7 +10,7 @@ function setup() {
 
   createCanvas(500,500);
   angleMode(DEGREES);
-  background(25);
+  background(26);
   noStroke();
 //primo cerchietto di sfondo
   fill(50);
